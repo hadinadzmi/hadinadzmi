@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
-<img src="https://github.com/hadinadzmi/hadinadzmi/blob/main/saitama-one-punch-man.gif" width="200px" />
+<img src="https://github.com/hadinadzmi/hadinadzmi/blob/main/saitama-one-punch-man.gif" width="1000" />
 <h3 align="center">Recent Computer Science Graduate | Aspiring Software / Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadinadzmi&label=Profile%20views&color=0e75b6&style=flat" alt="hadinadzmi" /> </p>
