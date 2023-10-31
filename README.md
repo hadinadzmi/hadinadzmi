@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadinadzmi" alt="hadinadzmi" /></a> </p>
 
+<img src= "https://github.com/hadinadzmi/hadinadzmi/blob/main/Saitama.gif" width="250" />
+
 - 📫 How to reach me **hdnadzmi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
