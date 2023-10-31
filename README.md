@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
-<img src="https://github.com/hadinadzmi/hadinadzmi/blob/main/saitama-one-punch-man.gif" width="1000" />
+<img src="https://github.com/hadinadzmi/hadinadzmi/blob/main/Saitama.gif" width="1000" />
 <h3 align="center">Recent Computer Science Graduate | Aspiring Software / Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadinadzmi&label=Profile%20views&color=0e75b6&style=flat" alt="hadinadzmi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadinadzmi" alt="hadinadzmi" /></a> </p>
-
-<img src="https://github.com/hadinadzmi/hadinadzmi/blob/main/saitama-one-punch-man.gif" width="250" />
 
 - 📫 How to reach me **hdnadzmi@gmail.com**
 
